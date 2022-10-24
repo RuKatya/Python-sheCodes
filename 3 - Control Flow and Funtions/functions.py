@@ -3,12 +3,9 @@
 #     # code here gets executed when you call the function
 #     print("Arf Arf")
 
-
 # dog()
 
 # Arguments/Paremeter
-
-
 def dog(mood):
     # code here gets executed when you call the function
     if mood == "happy":
